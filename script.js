@@ -6,7 +6,7 @@ function createIframe() {
   iframe.src = "https://chatgpt.hunet.ai/chat-gpt/Test%20User";
   iframe.width = "800";
   iframe.height = "800";
-  iframe.frameBorder ="0";
+  iframe.frameBorder ="10";
   iframe.scrolling = "0";
   
   // onload This is ‘ChatGPT’ How can I help you?
