@@ -4,8 +4,8 @@ createIframe();
 function createIframe() {
   const iframe = document.createElement("iframe");
   iframe.src = "https://chatgpt.hunet.ai/chat-gpt/Test%20User";
-  iframe.width = "500";
-  iframe.height = "500";
+  iframe.width = "800";
+  iframe.height = "800";
   iframe.frameBorder ="0";
   iframe.scrolling = "0";
   
